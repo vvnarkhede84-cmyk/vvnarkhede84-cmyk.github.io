@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>National AQI Live-Mapping Terminal - India</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1>🌍 India AQI Monitor</h1>
+                <p class="subtitle">Real-time Air Quality Index</p>
+            </div>
+            
+            <div class="info-panel">
+                <div class="last-updated">
+                    <span class="label">Last Updated:</span>
+                    <span class="timestamp" id="last-updated">Loading...</span>
+                </div>
+                
+                <div class="aqi-legend">
+                    <h3>AQI Scale</h3>
+                    <div class="legend-item good">
+                        <span class="color-box"></span>
+                        <span>Good (0-50)</span>
+                    </div>
+                    <div class="legend-item satisfactory">
+                        <span class="color-box"></span>
+                        <span>Satisfactory (51-100)</span>
+                    </div>
+                    <div class="legend-item moderately-polluted">
+                        <span class="color-box"></span>
+                        <span>Mod. Polluted (101-200)</span>
+                    </div>
+                    <div class="legend-item poor">
+                        <span class="color-box"></span>
+                        <span>Poor (201-300)</span>
+                    </div>
+                    <div class="legend-item very-poor">
+                        <span class="color-box"></span>
+                        <span>V. Poor (301-400)</span>
+                    </div>
+                    <div class="legend-item severe">
+                        <span class="color-box"></span>
+                        <span>Severe (401+)</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="search-panel">
+                <input type="text" id="search-input" placeholder="Search cities..." class="search-box">
+                <div class="city-list" id="city-list"></div>
+            </div>
+            
+            <div class="stats-panel">
+                <h3>Statistics</h3>
+                <div class="stat-item">
+                    <span class="label">Total Cities:</span>
+                    <span class="value" id="total-cities">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="label">Average AQI:</span>
+                    <span class="value" id="avg-aqi">--</span>
+                </div>
+                <div class="stat-item">
+                    <span class="label">Highest AQI:</span>
+                    <span class="value" id="max-aqi">--</span>
+                </div>
+            </div>
+        </aside>
+        
+        <!-- Main Map Container -->
+        <main class="map-container">
+            <div id="map"></div>
+            
+            <!-- City Info Popup (shown on marker click) -->
+            <div class="city-info-card" id="city-info">
+                <div class="close-btn" id="close-info">&times;</div>
+                <h2 id="info-city-name">City Name</h2>
+                <p id="info-city-state" class="state-name">State</p>
+                
+                <div class="aqi-display">
+                    <div class="aqi-value" id="info-aqi-value">-</div>
+                    <div class="aqi-label" id="info-aqi-label">-</div>
+                    <div class="aqi-tier-badge" id="info-tier-badge">-</div>
+                </div>
+                
+                <div class="info-details">
+                    <div class="detail-row">
+                        <span class="detail-label">Population:</span>
+                        <span class="detail-value" id="info-population">-</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">Primary Pollutant:</span>
+                        <span class="detail-value" id="info-pollutant">-</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">Coordinates:</span>
+                        <span class="detail-value" id="info-coords">-</span>
+                    </div>
+                </div>
+                
+                <div class="health-message" id="health-message">
+                    <!-- Health recommendation will be injected here -->
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <!-- Leaflet JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    
+    <!-- Custom App JS -->
+    <script src="assets/app.js"></script>
+</body>
+</html>

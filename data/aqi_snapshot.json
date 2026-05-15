@@ -1,0 +1,397 @@
+{
+  "last_updated": "2026-05-15T18:00:00Z",
+  "cities": [
+    {
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "population": "21,291,000",
+      "coordinates": [19.0760, 72.8777],
+      "aqi": 74,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "New Delhi",
+      "state": "Delhi",
+      "population": "33,807,000",
+      "coordinates": [28.6139, 77.2090],
+      "aqi": 169,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Bangalore",
+      "state": "Karnataka",
+      "population": "12,476,000",
+      "coordinates": [12.9716, 77.5946],
+      "aqi": 58,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Hyderabad",
+      "state": "Telangana",
+      "population": "10,123,000",
+      "coordinates": [17.3850, 78.4867],
+      "aqi": 82,
+      "dominant_pollutant": "no2"
+    },
+    {
+      "name": "Chennai",
+      "state": "Tamil Nadu",
+      "population": "7,088,000",
+      "coordinates": [13.0827, 80.2707],
+      "aqi": 65,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Kolkata",
+      "state": "West Bengal",
+      "population": "15,133,000",
+      "coordinates": [22.5726, 88.3639],
+      "aqi": 125,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Pune",
+      "state": "Maharashtra",
+      "population": "6,430,000",
+      "coordinates": [18.5204, 73.8567],
+      "aqi": 71,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Ahmedabad",
+      "state": "Gujarat",
+      "population": "8,450,000",
+      "coordinates": [23.0225, 72.5714],
+      "aqi": 112,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "population": "4,850,000",
+      "coordinates": [26.9124, 75.7873],
+      "aqi": 158,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Lucknow",
+      "state": "Uttar Pradesh",
+      "population": "3,382,000",
+      "coordinates": [26.8467, 80.9462],
+      "aqi": 145,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Kanpur",
+      "state": "Uttar Pradesh",
+      "population": "3,226,000",
+      "coordinates": [26.4499, 80.3319],
+      "aqi": 187,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Nagpur",
+      "state": "Maharashtra",
+      "population": "2,405,000",
+      "coordinates": [21.1458, 79.0882],
+      "aqi": 98,
+      "dominant_pollutant": "no2"
+    },
+    {
+      "name": "Indore",
+      "state": "Madhya Pradesh",
+      "population": "1,984,000",
+      "coordinates": [22.7196, 75.8615],
+      "aqi": 134,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Surat",
+      "state": "Gujarat",
+      "population": "6,081,000",
+      "coordinates": [21.1702, 72.8311],
+      "aqi": 88,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Bhopal",
+      "state": "Madhya Pradesh",
+      "population": "2,357,000",
+      "coordinates": [23.1815, 79.9864],
+      "aqi": 142,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Vadodara",
+      "state": "Gujarat",
+      "population": "2,065,000",
+      "coordinates": [22.3072, 73.1812],
+      "aqi": 105,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Ghaziabad",
+      "state": "Uttar Pradesh",
+      "population": "1,729,000",
+      "coordinates": [28.6692, 77.4538],
+      "aqi": 172,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Ludhiana",
+      "state": "Punjab",
+      "population": "1,618,000",
+      "coordinates": [30.9010, 75.8573],
+      "aqi": 156,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "population": "1,730,000",
+      "coordinates": [17.6869, 83.2185],
+      "aqi": 72,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Patna",
+      "state": "Bihar",
+      "population": "1,684,000",
+      "coordinates": [25.5941, 85.1376],
+      "aqi": 201,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Vellore",
+      "state": "Tamil Nadu",
+      "population": "561,000",
+      "coordinates": [12.9689, 79.1288],
+      "aqi": 63,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Nashik",
+      "state": "Maharashtra",
+      "population": "1,486,000",
+      "coordinates": [19.9975, 73.7898],
+      "aqi": 95,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Aurangabad",
+      "state": "Maharashtra",
+      "population": "1,173,000",
+      "coordinates": [19.8762, 75.3433],
+      "aqi": 121,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Dhanbad",
+      "state": "Jharkhand",
+      "population": "1,196,000",
+      "coordinates": [23.7957, 86.4304],
+      "aqi": 178,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Amritsar",
+      "state": "Punjab",
+      "population": "1,317,000",
+      "coordinates": [31.6340, 74.8723],
+      "aqi": 148,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Navi Mumbai",
+      "state": "Maharashtra",
+      "population": "1,120,000",
+      "coordinates": [19.0330, 73.0297],
+      "aqi": 81,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Allahabad",
+      "state": "Uttar Pradesh",
+      "population": "1,215,000",
+      "coordinates": [25.4358, 81.8463],
+      "aqi": 164,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Ranchi",
+      "state": "Jharkhand",
+      "population": "1,440,000",
+      "coordinates": [23.3441, 85.3096],
+      "aqi": 107,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Howrah",
+      "state": "West Bengal",
+      "population": "1,007,000",
+      "coordinates": [22.5958, 88.2636],
+      "aqi": 119,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Coimbatore",
+      "state": "Tamil Nadu",
+      "population": "1,930,000",
+      "coordinates": [11.0066, 76.9655],
+      "aqi": 74,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Jabalpur",
+      "state": "Madhya Pradesh",
+      "population": "1,360,000",
+      "coordinates": [23.1815, 79.9864],
+      "aqi": 128,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Guwahati",
+      "state": "Assam",
+      "population": "1,063,000",
+      "coordinates": [26.1445, 91.7362],
+      "aqi": 68,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Chandigarh",
+      "state": "Chandigarh",
+      "population": "1,055,000",
+      "coordinates": [30.7333, 76.7794],
+      "aqi": 132,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Solapur",
+      "state": "Maharashtra",
+      "population": "951,000",
+      "coordinates": [17.6599, 75.9064],
+      "aqi": 114,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Hubballi",
+      "state": "Karnataka",
+      "population": "943,000",
+      "coordinates": [15.3647, 75.1240],
+      "aqi": 91,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "state": "Kerala",
+      "population": "957,000",
+      "coordinates": [8.5241, 76.9366],
+      "aqi": 52,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Kochi",
+      "state": "Kerala",
+      "population": "677,000",
+      "coordinates": [9.9312, 76.2673],
+      "aqi": 48,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Meerut",
+      "state": "Uttar Pradesh",
+      "population": "1,423,000",
+      "coordinates": [28.9845, 77.7064],
+      "aqi": 181,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Belgaum",
+      "state": "Karnataka",
+      "population": "608,000",
+      "coordinates": [15.8497, 74.5021],
+      "aqi": 84,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Akola",
+      "state": "Maharashtra",
+      "population": "385,000",
+      "coordinates": [20.7127, 77.0249],
+      "aqi": 97,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Thane",
+      "state": "Maharashtra",
+      "population": "2,331,000",
+      "coordinates": [19.2183, 72.9781],
+      "aqi": 79,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Faridabad",
+      "state": "Haryana",
+      "population": "1,809,000",
+      "coordinates": [28.4089, 77.3178],
+      "aqi": 168,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Yamunanagar",
+      "state": "Haryana",
+      "population": "651,000",
+      "coordinates": [29.1530, 77.2668],
+      "aqi": 141,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Bikaner",
+      "state": "Rajasthan",
+      "population": "651,000",
+      "coordinates": [28.0229, 71.8315],
+      "aqi": 126,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Jodhpur",
+      "state": "Rajasthan",
+      "population": "1,033,000",
+      "coordinates": [26.2389, 73.0243],
+      "aqi": 138,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Madurai",
+      "state": "Tamil Nadu",
+      "population": "1,465,000",
+      "coordinates": [9.9252, 78.1198],
+      "aqi": 69,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Alappuzha",
+      "state": "Kerala",
+      "population": "360,000",
+      "coordinates": [9.4981, 76.3367],
+      "aqi": 45,
+      "dominant_pollutant": "pm25"
+    },
+    {
+      "name": "Asansol",
+      "state": "West Bengal",
+      "population": "1,347,000",
+      "coordinates": [23.6836, 86.9656],
+      "aqi": 135,
+      "dominant_pollutant": "pm10"
+    },
+    {
+      "name": "Durgapur",
+      "state": "West Bengal",
+      "population": "579,000",
+      "coordinates": [23.5000, 87.3000],
+      "aqi": 128,
+      "dominant_pollutant": "pm10"
+    }
+  ]
+}
