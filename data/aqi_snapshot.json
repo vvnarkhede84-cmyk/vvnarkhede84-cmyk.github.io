@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T19:56:35.727329Z",
+  "last_updated": "2026-05-16T20:39:39.713308Z",
   "cities": [
     {
       "name": "Mumbai",
@@ -9,7 +9,7 @@
         19.076,
         72.8777
       ],
-      "aqi": 75,
+      "aqi": 76,
       "dominant_pollutant": "pm25"
     },
     {
@@ -20,7 +20,7 @@
         28.6139,
         77.209
       ],
-      "aqi": 155,
+      "aqi": 154,
       "dominant_pollutant": "pm25"
     },
     {
@@ -31,7 +31,7 @@
         12.9716,
         77.5946
       ],
-      "aqi": 108,
+      "aqi": 105,
       "dominant_pollutant": "pm25"
     },
     {
@@ -42,7 +42,7 @@
         17.385,
         78.4867
       ],
-      "aqi": 143,
+      "aqi": 140,
       "dominant_pollutant": "pm25"
     },
     {
@@ -53,7 +53,7 @@
         13.0827,
         80.2707
       ],
-      "aqi": 58,
+      "aqi": 59,
       "dominant_pollutant": "pm25"
     },
     {
@@ -64,7 +64,7 @@
         22.5726,
         88.3639
       ],
-      "aqi": 53,
+      "aqi": 51,
       "dominant_pollutant": "pm25"
     },
     {
@@ -108,7 +108,7 @@
         26.8467,
         80.9462
       ],
-      "aqi": 163,
+      "aqi": 164,
       "dominant_pollutant": "pm25"
     },
     {
@@ -119,7 +119,7 @@
         26.4499,
         80.3319
       ],
-      "aqi": 124,
+      "aqi": 126,
       "dominant_pollutant": "pm25"
     },
     {
@@ -141,7 +141,7 @@
         23.1815,
         79.9864
       ],
-      "aqi": 82,
+      "aqi": 78,
       "dominant_pollutant": "pm25"
     },
     {
@@ -185,7 +185,7 @@
         19.9975,
         73.7898
       ],
-      "aqi": 95,
+      "aqi": 94,
       "dominant_pollutant": "pm25"
     },
     {
@@ -196,7 +196,7 @@
         19.8762,
         75.3433
       ],
-      "aqi": 150,
+      "aqi": 135,
       "dominant_pollutant": "pm10"
     },
     {
@@ -207,7 +207,7 @@
         31.634,
         74.8723
       ],
-      "aqi": 117,
+      "aqi": 116,
       "dominant_pollutant": "pm25"
     },
     {
@@ -218,7 +218,7 @@
         19.033,
         73.0297
       ],
-      "aqi": 53,
+      "aqi": 51,
       "dominant_pollutant": "pm25"
     },
     {
@@ -229,7 +229,7 @@
         25.4358,
         81.8463
       ],
-      "aqi": 74,
+      "aqi": 76,
       "dominant_pollutant": "pm25"
     },
     {
@@ -240,7 +240,7 @@
         22.5958,
         88.2636
       ],
-      "aqi": 66,
+      "aqi": 65,
       "dominant_pollutant": "pm25"
     },
     {
@@ -262,7 +262,7 @@
         23.1815,
         79.9864
       ],
-      "aqi": 79,
+      "aqi": 80,
       "dominant_pollutant": "pm25"
     },
     {
@@ -284,7 +284,7 @@
         30.7333,
         76.7794
       ],
-      "aqi": 99,
+      "aqi": 93,
       "dominant_pollutant": "pm25"
     },
     {
@@ -328,7 +328,7 @@
         9.9312,
         76.2673
       ],
-      "aqi": 46,
+      "aqi": 50,
       "dominant_pollutant": "pm25"
     },
     {
@@ -339,7 +339,7 @@
         28.9845,
         77.7064
       ],
-      "aqi": 162,
+      "aqi": 163,
       "dominant_pollutant": "pm10"
     },
     {
@@ -350,7 +350,7 @@
         15.8497,
         74.5021
       ],
-      "aqi": 44,
+      "aqi": 42,
       "dominant_pollutant": "pm25"
     },
     {
@@ -372,7 +372,7 @@
         28.4089,
         77.3178
       ],
-      "aqi": 191,
+      "aqi": 190,
       "dominant_pollutant": "pm25"
     },
     {
@@ -405,7 +405,7 @@
         26.2389,
         73.0243
       ],
-      "aqi": 84,
+      "aqi": 81,
       "dominant_pollutant": "pm25"
     },
     {
@@ -416,7 +416,7 @@
         23.6836,
         86.9656
       ],
-      "aqi": 68,
+      "aqi": 67,
       "dominant_pollutant": "pm25"
     },
     {
