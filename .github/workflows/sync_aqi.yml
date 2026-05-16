@@ -9,7 +9,9 @@ on:
 jobs:
   fetch-aqi-data:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -46,6 +48,8 @@ jobs:
           git add data/aqi_snapshot.json
           git commit -m "📊 Update AQI snapshot - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: No changes detected
         if: steps.check_changes.outputs.changes != 'true'
