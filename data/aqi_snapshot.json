@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T07:42:00.934578Z",
+  "last_updated": "2026-06-20T10:25:30.229176Z",
   "cities": [
     {
       "name": "Mumbai",
@@ -9,7 +9,7 @@
         19.076,
         72.8777
       ],
-      "aqi": 82,
+      "aqi": 122,
       "dominant_pollutant": "pm25"
     },
     {
@@ -20,7 +20,7 @@
         28.6139,
         77.209
       ],
-      "aqi": 142,
+      "aqi": 107,
       "dominant_pollutant": "pm25"
     },
     {
@@ -31,7 +31,7 @@
         12.9716,
         77.5946
       ],
-      "aqi": 87,
+      "aqi": 88,
       "dominant_pollutant": "pm25"
     },
     {
@@ -42,7 +42,7 @@
         17.385,
         78.4867
       ],
-      "aqi": 57,
+      "aqi": 79,
       "dominant_pollutant": "pm25"
     },
     {
@@ -53,7 +53,7 @@
         13.0827,
         80.2707
       ],
-      "aqi": 74,
+      "aqi": 77,
       "dominant_pollutant": "pm25"
     },
     {
@@ -64,7 +64,7 @@
         22.5726,
         88.3639
       ],
-      "aqi": 78,
+      "aqi": 104,
       "dominant_pollutant": "pm25"
     },
     {
@@ -86,7 +86,7 @@
         23.0225,
         72.5714
       ],
-      "aqi": 75,
+      "aqi": 68,
       "dominant_pollutant": "pm25"
     },
     {
@@ -97,7 +97,7 @@
         26.9124,
         75.7873
       ],
-      "aqi": 100,
+      "aqi": 93,
       "dominant_pollutant": "pm25"
     },
     {
@@ -108,7 +108,7 @@
         26.8467,
         80.9462
       ],
-      "aqi": 151,
+      "aqi": 120,
       "dominant_pollutant": "pm25"
     },
     {
@@ -130,7 +130,7 @@
         21.1458,
         79.0882
       ],
-      "aqi": 57,
+      "aqi": 39,
       "dominant_pollutant": "pm25"
     },
     {
@@ -141,7 +141,7 @@
         23.1815,
         79.9864
       ],
-      "aqi": 60,
+      "aqi": 54,
       "dominant_pollutant": "pm25"
     },
     {
@@ -152,7 +152,7 @@
         28.6692,
         77.4538
       ],
-      "aqi": 125,
+      "aqi": 116,
       "dominant_pollutant": "pm10"
     },
     {
@@ -163,7 +163,7 @@
         30.901,
         75.8573
       ],
-      "aqi": 123,
+      "aqi": 115,
       "dominant_pollutant": "pm25"
     },
     {
@@ -174,7 +174,7 @@
         25.5941,
         85.1376
       ],
-      "aqi": 24,
+      "aqi": 105,
       "dominant_pollutant": "pm25"
     },
     {
@@ -185,7 +185,7 @@
         19.9975,
         73.7898
       ],
-      "aqi": 63,
+      "aqi": 44,
       "dominant_pollutant": "pm25"
     },
     {
@@ -196,7 +196,7 @@
         19.8762,
         75.3433
       ],
-      "aqi": 45,
+      "aqi": 63,
       "dominant_pollutant": "pm25"
     },
     {
@@ -207,7 +207,7 @@
         31.634,
         74.8723
       ],
-      "aqi": 104,
+      "aqi": 108,
       "dominant_pollutant": "pm25"
     },
     {
@@ -218,7 +218,7 @@
         19.033,
         73.0297
       ],
-      "aqi": 51,
+      "aqi": 34,
       "dominant_pollutant": "pm25"
     },
     {
@@ -229,7 +229,7 @@
         25.4358,
         81.8463
       ],
-      "aqi": 47,
+      "aqi": 46,
       "dominant_pollutant": "pm25"
     },
     {
@@ -240,7 +240,7 @@
         22.5958,
         88.2636
       ],
-      "aqi": 102,
+      "aqi": 113,
       "dominant_pollutant": "pm25"
     },
     {
@@ -251,7 +251,7 @@
         11.0066,
         76.9655
       ],
-      "aqi": 85,
+      "aqi": 86,
       "dominant_pollutant": "pm25"
     },
     {
@@ -262,7 +262,7 @@
         23.1815,
         79.9864
       ],
-      "aqi": 65,
+      "aqi": 62,
       "dominant_pollutant": "pm25"
     },
     {
@@ -273,8 +273,8 @@
         26.1445,
         91.7362
       ],
-      "aqi": 159,
-      "dominant_pollutant": "pm25"
+      "aqi": 895,
+      "dominant_pollutant": "pm10"
     },
     {
       "name": "Chandigarh",
@@ -284,7 +284,7 @@
         30.7333,
         76.7794
       ],
-      "aqi": 69,
+      "aqi": 57,
       "dominant_pollutant": "pm25"
     },
     {
@@ -317,7 +317,7 @@
         8.5241,
         76.9366
       ],
-      "aqi": 58,
+      "aqi": 53,
       "dominant_pollutant": "pm25"
     },
     {
@@ -328,8 +328,8 @@
         9.9312,
         76.2673
       ],
-      "aqi": 18,
-      "dominant_pollutant": "pm10"
+      "aqi": 34,
+      "dominant_pollutant": "pm25"
     },
     {
       "name": "Meerut",
@@ -339,7 +339,7 @@
         28.9845,
         77.7064
       ],
-      "aqi": 122,
+      "aqi": 117,
       "dominant_pollutant": "pm25"
     },
     {
@@ -372,7 +372,7 @@
         28.4089,
         77.3178
       ],
-      "aqi": 133,
+      "aqi": 155,
       "dominant_pollutant": "pm25"
     },
     {
@@ -383,8 +383,8 @@
         26.1445,
         91.7362
       ],
-      "aqi": 159,
-      "dominant_pollutant": "pm25"
+      "aqi": 895,
+      "dominant_pollutant": "pm10"
     },
     {
       "name": "Yamunanagar",
@@ -394,7 +394,7 @@
         29.153,
         77.2668
       ],
-      "aqi": 152,
+      "aqi": 129,
       "dominant_pollutant": "pm25"
     },
     {
@@ -405,7 +405,7 @@
         26.2389,
         73.0243
       ],
-      "aqi": 80,
+      "aqi": 62,
       "dominant_pollutant": "pm25"
     },
     {
@@ -416,7 +416,7 @@
         23.6836,
         86.9656
       ],
-      "aqi": 89,
+      "aqi": 99,
       "dominant_pollutant": "pm25"
     },
     {
@@ -427,7 +427,7 @@
         23.5,
         87.3
       ],
-      "aqi": 84,
+      "aqi": 112,
       "dominant_pollutant": "pm25"
     }
   ]
