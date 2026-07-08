@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T07:25:55.094485Z",
+  "last_updated": "2026-07-08T10:06:07.449568Z",
   "cities": [
     {
       "name": "Mumbai",
@@ -20,8 +20,8 @@
         28.6139,
         77.209
       ],
-      "aqi": 53,
-      "dominant_pollutant": "pm25"
+      "aqi": 9,
+      "dominant_pollutant": "no2"
     },
     {
       "name": "Bangalore",
@@ -328,8 +328,8 @@
         9.9312,
         76.2673
       ],
-      "aqi": 30,
-      "dominant_pollutant": "pm25"
+      "aqi": 9,
+      "dominant_pollutant": "o3"
     },
     {
       "name": "Meerut",
@@ -372,7 +372,7 @@
         28.4089,
         77.3178
       ],
-      "aqi": 90,
+      "aqi": 53,
       "dominant_pollutant": "pm25"
     },
     {
@@ -405,7 +405,7 @@
         26.2389,
         73.0243
       ],
-      "aqi": 107,
+      "aqi": 83,
       "dominant_pollutant": "pm25"
     },
     {
