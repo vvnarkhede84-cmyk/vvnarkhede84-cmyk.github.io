@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T00:38:46.556852Z",
+  "last_updated": "2026-08-23T02:17:50.234447Z",
   "cities": [
     {
       "name": "Mumbai",
@@ -405,7 +405,7 @@
         26.2389,
         73.0243
       ],
-      "aqi": 83,
+      "aqi": 107,
       "dominant_pollutant": "pm25"
     },
     {
